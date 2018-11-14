@@ -15,3 +15,13 @@ It has different word sets for two example students (Jamie and Tom) and example 
 It logs results but the results aren't yet "saved" 
 
 You can see the change log and To Do list inside the twine
+
+How could I see this game as html?
+
+Use GitHub Pages which was pretty straight foward to to and resulted in the below which is based on the master branch
+
+https://harrylongworth.github.io/twine2school/
+
+**Notes**
+
+Dev branch is the work in progress branch
